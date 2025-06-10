@@ -1,0 +1,14 @@
+asgiref==3.8.1
+channels==4.2.0
+channels_redis==4.2.1
+click==8.1.8
+colorama==0.4.6
+Django==5.1.7
+h11==0.14.0
+msgpack==1.1.0
+pycryptodome==3.22.0
+redis==5.2.1
+sqlparse==0.5.3
+tzdata==2025.2
+uvicorn==0.34.0
+websockets==15.0.1
